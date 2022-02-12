@@ -1,0 +1,15 @@
+1st Page For Title with group details.
+2nd Page For Company Details with ur Training Contents for IDP.
+3rd Page For Introduction followed by Data Dictionary
+4th Page For Class Diagram
+5th Page for Use-case Diagram
+6th Page DFD Context Level Diagram
+7th Page DFD Level-0 and Level-1 and Level-2
+8th Page Sequence Diagram
+9th Page E-R Diagram
+10th Page Flow-chart
+11th Page Activity Diagram
+12th Page Snap-shots of Page Design if available
+13th Page Conclusion
+14th Page Future Scope
+15th Page References
